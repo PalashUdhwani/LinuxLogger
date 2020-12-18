@@ -1,0 +1,6 @@
+this is the first line ever in this text  file
+
+Now this is the second line ever and I dont need to worry about git add, pull,
+push ,etc because I have scripts now.
+EZPZ...right?
+
